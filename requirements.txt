@@ -1,0 +1,10 @@
+arxiv
+pymupdf
+langchain
+langchain-community
+langchain-openai
+langchain-pinecone
+pinecone-client
+gradio
+python-dotenv
+langchain_cohere
